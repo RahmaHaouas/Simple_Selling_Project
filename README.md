@@ -7,13 +7,13 @@ As a user you can:
 * Feedback
 ## Getting Started with Create React App
 
-### `npx create-react-app your-app`
-### `cd your-app`
-### `npm start`
+#### `npx create-react-app your-app`
+#### `cd your-app`
+#### `npm start`
 
 ## OR
 
-git clone https://github.com/RahmaHaouas/Simple_Selling_Project.git
+#### git clone https://github.com/RahmaHaouas/Simple_Selling_Project.git
 
 ## Available Scripts
 
