@@ -5,13 +5,13 @@ As a user you can:
 * Add to cart
 * Empty cart
 * Feedback
-# Getting Started with Create React App
+## Getting Started with Create React App
 
-``npx create-react-app your-app``
-``cd your-app``
-``npm start``
+### `npx create-react-app your-app`
+### `cd your-app`
+### `npm start`
 
-# OR
+## OR
 
 git clone https://github.com/RahmaHaouas/Simple_Selling_Project.git
 
