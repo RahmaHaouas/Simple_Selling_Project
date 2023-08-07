@@ -6,12 +6,11 @@ As a user you can:
 * Empty cart
 * Feedback
 # Getting Started with Create React App
-``
-npx create-react-app your-app
-cd your-app
-npm start
 
-``
+`npx create-react-app your-app`
+`cd your-app`
+`npm start`
+
 #OR
 
 git clone https://github.com/RahmaHaouas/Simple_Selling_Project.git
@@ -29,3 +28,6 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
+
+## Interface
+![Capture d’écran 2023-08-06 145809](https://github.com/RahmaHaouas/Simple_Selling_Project/assets/93491702/41e9761b-bf97-44ec-ba44-f8e67bcf2a0b)
